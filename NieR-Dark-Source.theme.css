@@ -46,5 +46,5 @@ strong {
     --color-low-trans: rgba(218, 212, 187, 0.8);
     --color-alert-trans:  rgba(84,145,204,0.7);
     --nier-font: sce-ps3_rodin_latinregular;
-	--color-bold: rgb(205, 102, 77);
+    --color-bold: rgb(205, 102, 77);
 }
